@@ -42,7 +42,7 @@ layout:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/insulinpens.jpg" alt="Шприц-ручки" width="563"><figcaption><p>Шприц-ручки</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/insulinpens.jpg" alt="Шприц-ручки" width="563"><figcaption><p>Шприц-ручки</p></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ layout:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/freestylelibre2.jpg" alt="FreeStyle Libre 2" width="375"><figcaption><p>FreeStyle Libre 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/freestylelibre2.jpg" alt="FreeStyle Libre 2" width="375"><figcaption><p>FreeStyle Libre 2</p></figcaption></figure>
 
 </div>
 

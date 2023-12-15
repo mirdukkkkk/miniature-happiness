@@ -5,4 +5,9 @@
 
 ## 🧬 Иммунология <a href="#immunology" id="immunology"></a>
 
-* [💉 Сахарный диабет I типа](immunology/diabetes.md)
+* [💉 Сахарный диабет I типа](immunology/diabetes/README.md)
+  * [Что будет если принять инсулин здоровому человеку?](for-curious/insulin-for-a-healthy-person.md)
+
+## 🤠 Для любопытных <a href="#for-curious" id="for-curious"></a>
+
+* [💉 Инсулин здоровому человеку](for-curious/insulin-for-a-healthy-person.md)
