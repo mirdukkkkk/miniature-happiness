@@ -31,7 +31,3 @@ Author:
 - Telegram: @mirdukkkkk
 - Youtube: @mirdukkkkk
 - and other collaborators 🥰
-
-<a href = "https://github.com/mirdukkkkk/miniature-happiness/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=mirdukkkkk/miniature-happiness"/>
-</a>
