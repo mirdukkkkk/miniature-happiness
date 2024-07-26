@@ -1,0 +1,23 @@
+mark {
+    background-color: unset;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+mark {
+    font-weight: bold;
+}
+
+.definition {
+    color: mediumpurple;
+}
+
+.danger {
+    color: red;
+}
+
+.success {
+    color: limegreen;
+}

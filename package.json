@@ -1,0 +1,31 @@
+{
+  "name": "miniature-happiness",
+  "version": "1.0.0",
+  "description": "Medical writings, not recommended for consumption ",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/mirdukkkkk/miniature-happiness.git",
+  "author": "mirdukkkkk <69540930+mirdukkkkk@users.noreply.github.com>",
+  "license": "GPL-3.0-only",
+  "private": false,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.4.0",
+    "@docusaurus/plugin-content-docs": "^3.4.0",
+    "@docusaurus/theme-classic": "^3.4.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.25.1"
+  },
+  "devDependencies": {
+    "@docusaurus/tsconfig": "^3.4.0",
+    "@types/node": "^20.14.12",
+    "typescript": "^5.5.4"
+  }
+}
