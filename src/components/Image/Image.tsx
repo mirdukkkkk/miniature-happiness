@@ -17,7 +17,7 @@ const Image: React.FC = ({ width, height, name, src, align = 'left' }: ImageProp
                 height={height}
                 alt={name}
             />
-            <figcaption><p>{name}</p></figcaption>
+            {name && <figcaption><p>{name}</p></figcaption>}
         </figure>
     </div>
 );

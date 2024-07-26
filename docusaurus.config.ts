@@ -1,4 +1,7 @@
 import type {Config} from '@docusaurus/types';
+import * as process from "process";
+
+//const isProd = process.env.IS_PROD_BUILD == "true";
 
 export default {
     title: 'Попугай в халате',
@@ -37,7 +40,10 @@ export default {
         },
         navbar: {
             title: 'Попугай в халате',
-            items: []
+            logo: {
+                src: '/img/logo.svg',
+                alt: 'Логотип сайта'
+            }
         },
         colorMode: {
             defaultMode: 'dark',
